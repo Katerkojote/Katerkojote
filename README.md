@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Katerkojote
-- 👀 I’m interested in Robots
-- 🌱 I’m currently learning Maths
+- 👀 I’m interested in Robots and Hacking
+- 🌱 I’m currently learning Maths and Real world Pentestig
 - 📫 How to reach me, @Katerkojote on telegram
 
 <!---
