@@ -1,4 +1,4 @@
-👤 <strong>Kriss | 🇩🇪 | Professional writer of Compiler-Errors and Corrupter of EPROMs.</strong><br> 
+👤 <strong>Kriss | 🇩🇪 | Professional writer of Compiler-Errors and ✨Corrupter of EPROMs✨.</strong><br> 
 📚 <strong>Knowledge in: Physical IT Security and building Projects</strong><br>
 <br>
 <strong>Currently Learning:</strong><br>
