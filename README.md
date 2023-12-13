@@ -1,9 +1,11 @@
 👤 <strong>Kriss | 🇩🇪 | Professional writer of Compiler-Errors and ✨Corrupter of EPROMs✨.</strong><br> 
 📚 <strong>Knowledge in: Physical IT Security and building Projects</strong><br>
 <br>
+<strong>Programming with:</strong><br>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,html>
+<br><br>
 <strong>Currently Learning:</strong><br>
-<img src="https://img.shields.io/badge/HTML-black?logo=html5&logoColor=orange"/> 
-<img src="https://img.shields.io/badge/C%2B%2B-black?logo=c%2B%2B&logoColor=lightblue" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,html>
 <br><br>
 <strong>IDEs & CodeEditors:</strong><br>
 <img src="https://img.shields.io/badge/VisualStudio/Code-black?logo=visualstudiocode&logoColor=white">
