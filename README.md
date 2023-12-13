@@ -5,7 +5,7 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,html" />
 <br><br>
 <strong>Currently Learning:</strong><br>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,html" />
+<img src="https://skillicons.dev/icons?i=js,css" />
 <br><br>
 <strong>IDEs & CodeEditors:</strong><br>
 <img src="https://img.shields.io/badge/VisualStudio/Code-black?logo=visualstudiocode&logoColor=white">
